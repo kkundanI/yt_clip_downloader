@@ -22,9 +22,7 @@ You must have the following installed on your system:
 ### 1. Install FFmpeg
 The tool relies on `ffmpeg` heavily for processing video segments. Open your terminal as an Administrator and install it:
 <div align="center">
-  <a href="https://youtu.be/-uj6h_b5XzQ">
-    <img src="https://img.youtube.com/vi/-uj6h_b5XzQ/maxresdefault.jpg" alt="How to Install FFmpeg" width="60%">
-  </a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-uj6h_b5XzQ" title="How to Install FFmpeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 - **Windows:** `winget install ffmpeg`
