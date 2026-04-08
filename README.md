@@ -21,10 +21,11 @@ You must have the following installed on your system:
 
 ### 1. Install FFmpeg
 The tool relies on `ffmpeg` heavily for processing video segments. Open your terminal as an Administrator and install it:
-
-<video src="Download%20ffmpeg.mp4" controls="controls" style="max-width: 60%;">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <a href="https://youtu.be/-uj6h_b5XzQ">
+    <img src="https://img.youtube.com/vi/-uj6h_b5XzQ/maxresdefault.jpg" alt="How to Install FFmpeg" width="60%">
+  </a>
+</div>
 
 - **Windows:** `winget install ffmpeg`
 - **macOS:** `brew install ffmpeg`
